@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\cse210\csharp-prep\prep1\bin\Debug\net8.0\Prep1.exe
+C:\Users\Administrator\Desktop\cse210\csharp-prep\prep1\bin\Debug\net8.0\Prep1.deps.json
+C:\Users\Administrator\Desktop\cse210\csharp-prep\prep1\bin\Debug\net8.0\Prep1.runtimeconfig.json
+C:\Users\Administrator\Desktop\cse210\csharp-prep\prep1\bin\Debug\net8.0\Prep1.dll
+C:\Users\Administrator\Desktop\cse210\csharp-prep\prep1\bin\Debug\net8.0\Prep1.pdb
+C:\Users\Administrator\Desktop\cse210\csharp-prep\prep1\obj\Debug\net8.0\Prep1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\cse210\csharp-prep\prep1\obj\Debug\net8.0\Prep1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\cse210\csharp-prep\prep1\obj\Debug\net8.0\Prep1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\cse210\csharp-prep\prep1\obj\Debug\net8.0\Prep1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cse210\csharp-prep\prep1\obj\Debug\net8.0\Prep1.dll
+C:\Users\Administrator\Desktop\cse210\csharp-prep\prep1\obj\Debug\net8.0\refint\Prep1.dll
+C:\Users\Administrator\Desktop\cse210\csharp-prep\prep1\obj\Debug\net8.0\Prep1.pdb
+C:\Users\Administrator\Desktop\cse210\csharp-prep\prep1\obj\Debug\net8.0\Prep1.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\cse210\csharp-prep\prep1\obj\Debug\net8.0\ref\Prep1.dll
